@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ahmad+Alnahrawy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<a href="https://iconscout.com/lottie-animations/linkedin" class="text-underline font-size-sm" target="_blank">linkedin-1</a> by <a href="https://iconscout.com/contributors/unicons" class="text-underline font-size-sm" target="_blank">Unicons Font</a>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
