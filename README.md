@@ -1,4 +1,6 @@
 
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad.Alnahrawy">
 
 <h1 align="center">
@@ -31,7 +33,6 @@
   <br>
   📫 How to reach me: <a href="mailto: ahmad_alnahrawy@hotmail.com">ahmad_alnahrawy@hotmail.com</a>
 </p>
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
