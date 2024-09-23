@@ -55,7 +55,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<a href="https://app.daily.dev/ahmadalahmadyalnahrawy"><img src="./devcard.png" width="400" alt="Ahmad Alahmady Alnahrawy's Dev Card"/></a>
+<a href="https://app.daily.dev/ahmadalahmadyalnahrawy"><img src="./devcard.png?type=wide&r=7sk" width="400" alt="Ahmad Alahmady Alnahrawy's Dev Card"/></a>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
