@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<a href="https://app.daily.dev/ahmadalahmadyalnahrawy"><img src="./devcard.png?type=wide&r=7sk" width="400" alt="Ahmad Alahmady Alnahrawy's Dev Card"/></a>
+<a href="https://app.daily.dev/ahmadalahmadyalnahrawy"><img src="./devcard.png" width="400" alt="Ahmad Alahmady Alnahrawy's Dev Card"/></a>
 </div>
 <p align=center>
   <div align=center>
